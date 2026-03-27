@@ -24,7 +24,7 @@
     "check": "vp check"
   },
   "dependencies": {
-    "@jano-editor/plugin-types": "^1.0.0"
+    "@jano-editor/plugin-types": "^1.0.0-alpha.1"
   },
   "devDependencies": {
     "@types/node": "^25.5.0",

@@ -1,11 +1,11 @@
 {
-  "name": "jano-plugin-dockerfile",
+  "name": "dockerfile",
   "version": "1.0.0",
   "api": 1,
   "description": "Dockerfile syntax highlighting and auto-indent for jano editor",
   "extensions": ["Dockerfile", ".dockerfile"],
   "entry": "index.js",
   "author": "jano-editor",
-  "homepage": "https://github.com/jano-editor/jano-plugin-dockerfile",
+  "homepage": "https://github.com/jano-editor/plugin-dockerfile",
   "license": "MIT"
 }

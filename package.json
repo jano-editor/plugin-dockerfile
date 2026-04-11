@@ -1,6 +1,6 @@
 {
   "name": "jano-plugin-dockerfile",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Dockerfile syntax highlighting and formatting for jano editor.",
   "homepage": "https://github.com/jano-editor/plugin-dockerfile",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "build": "esbuild src/index.ts --bundle --format=esm --platform=node --outfile=dist/index.js"
   },
   "devDependencies": {
-    "@jano-editor/plugin-types": "^1.0.0-alpha.1",
+    "@jano-editor/plugin-types": "^1.0.0-alpha.4",
     "esbuild": "^0.24.0"
   }
 }
